@@ -22,4 +22,4 @@ $config = require(__DIR__ . '/config/console.php');
 $application = new yii\console\Application($config);
 $exitCode = $application->run();
 exit($exitCode);
-
+//test2
